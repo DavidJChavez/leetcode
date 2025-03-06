@@ -5,6 +5,8 @@ My solutions for Leetcode problems
 
 - 80\. Remove Duplicates from Sorted Array II ([Solution](medium/80_remove_duplicates_from_sorted_array_ii.ts) / [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/))
 
+- 189\. Rotate Array ([Solution](medium/189_rotate_array.ts) / [Problem](https://leetcode.com/problems/rotate-array/))
+
 ## Easy
 
 <!-- -  ([Solution]() / [Problem]()) -->
