@@ -8,6 +8,8 @@ My solutions for Leetcode problems
 
 - 189\. Rotate Array ([Solution](medium/189_rotate_array.ts) / [Problem](https://leetcode.com/problems/rotate-array/))
 
+- 1358\. Number of Substrings Containing All Three Characters ([Solution](medium/1358_number_of_substrings_containing_all_three_characters.ts) / [Problem](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/))
+
 ## Easy
 
 <!-- -  ([Solution]() / [Problem]()) -->
